@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-This project focuses on detecting emotions from text data using machine learning techniques. The goal is to classify and predict emotions such as happiness, sadness, anger, etc., based on textual input. This solution can be used in applications such as customer service, social media monitoring, mental health analysis, and more.
+This project focuses on detecting emotions from text data using the Emotion Prediction function from IBM Watson NLP libraries. The goal is to classify and predict emotions such as happiness, sadness, anger, etc., based on textual input. This solution can be used in applications such as customer service, social media monitoring, mental health analysis, and more.
 
 ## Features
 
