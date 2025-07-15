@@ -20,7 +20,6 @@ This project focuses on detecting emotions from text data using machine learning
 ├── .git                # Git version control configuration
 ├── .gitignore          # Git ignore file
 ├── EmotionDetection    # The main emotion detection code
-├── LICENSE             # Project license
 ├── README.md           # Project documentation (this file)
 ├── server.py           # Flask server script
 ├── static              # Static files (CSS, JS, images)
@@ -48,8 +47,8 @@ Ensure you have the following installed:
    ```
 
 2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
+   ``` bash
+   pip install flask flask-cors unittest requests json
    ```
 
 3. Run the application:
